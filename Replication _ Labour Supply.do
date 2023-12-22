@@ -1,5 +1,3 @@
-// Final Draft Course Project ECON 643
-
 // The authors uses two seperate datasets for making the summary stats and the
 // tables and to make the graphs.
 
